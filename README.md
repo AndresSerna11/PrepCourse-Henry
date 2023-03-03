@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-ejemplo repositorio modulo 2 en la nube
+Este proyecto es una prueba de como crear un repositorio y clonar desde githab a mi computadora  
